@@ -1,0 +1,4 @@
+#!/bin/bash
+source ./nikola/bin/activate
+nikola new_post
+deactivate

@@ -1,0 +1,4 @@
+#!/bin/bash
+source ./nikola/bin/activate
+nikola github_deploy
+deactivate
