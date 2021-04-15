@@ -6,119 +6,139 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/2012/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2012/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/2021/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/archive.html</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/authors/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/authors/k8screw/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/authors/roberto-alsina/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/blog/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/cat_nikola/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/blog/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/demo/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/nikola/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/demo/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/python/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/nikola/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/galleries/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/python/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/galleries/demo/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/listings/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/demo/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/listings/__pycache__/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/listings/hello.py.html</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/about-nikola/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/bootstrap-demo/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/charts/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/about-nikola/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/creating-a-theme/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/bootstrap-demo/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/charts/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/extending/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/creating-a-theme/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/handbook/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/internals/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/extending/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/listings-demo/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/handbook/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/path-handlers/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/internals/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/quickref/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/listings-demo/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/quickstart/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/path-handlers/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/social_buttons/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickref/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/pages/theming/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickstart/</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/posts/markdown-usability/</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/social_buttons/</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/pages/theming/</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
+  <loc>https://evilnick.github.io/k8screw-nikola/posts/welcome-to-nikola/</loc>
   <lastmod>2021-04-15T11:13:00Z</lastmod>
  </url>
 </urlset>
