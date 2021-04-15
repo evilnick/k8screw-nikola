@@ -6,39 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/authors/k8screw.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/authors/roberto-alsina.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/blog.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/cat_nikola.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/demo.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/nikola.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/categories/python.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/galleries/demo/rss.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2021-04-15T11:13:00Z</lastmod>
+  <loc>https://evilnick.github.io/k8screw-nikola/galleries/rss.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://evilnick.github.io/k8screw-nikola/rss.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://evilnick.github.io/k8screw-nikola/sitemap.xml</loc>
+  <lastmod>2021-04-15T13:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>
