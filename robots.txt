@@ -1,0 +1,4 @@
+Sitemap: https://evilnick.github.io/k8screw-nikola/sitemapindex.xml
+
+User-Agent: *
+Host: evilnick.github.io
