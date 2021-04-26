@@ -1,4 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>K8s-Crew (Posts by k8screw)</title><link>https://evilnick.github.io/k8screw-nikola/</link><description></description><atom:link href="https://evilnick.github.io/k8screw-nikola/authors/k8screw.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:nick.veitch@canonical.com"&gt;k8screw&lt;/a&gt; </copyright><lastBuildDate>Thu, 15 Apr 2021 13:36:40 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>markdown</title><link>https://evilnick.github.io/k8screw-nikola/posts/markdown-usability/</link><dc:creator>k8screw</dc:creator><description>&lt;div&gt;&lt;p&gt;Just for consistency, I have changed the default format in this blog to Markdown.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>K8s-Crew (Posts by k8screw)</title><link>https://evilnick.github.io/k8screw-nikola/</link><description></description><atom:link href="https://evilnick.github.io/k8screw-nikola/authors/k8screw.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:nick.veitch@canonical.com"&gt;k8screw&lt;/a&gt; </copyright><lastBuildDate>Mon, 26 Apr 2021 10:24:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A new beginning</title><link>https://evilnick.github.io/k8screw-nikola/posts/a-new-beginning/</link><dc:creator>k8screw</dc:creator><description>&lt;div&gt;&lt;p&gt;This is really just a test of some markdown type stuff to see that we can do useful things.&lt;/p&gt;
+&lt;p&gt;For example, what does a list look like?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It seems&lt;/li&gt;
+&lt;li&gt;to look very much&lt;/li&gt;
+&lt;li&gt;like this.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;code examples&lt;/h3&gt;
+&lt;p&gt;These should be pretty straightforward.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="nt"&gt;kind&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;Ingress&lt;/span&gt;
+&lt;span class="nt"&gt;apiVersion&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;extensions/v1beta1&lt;/span&gt;
+&lt;span class="nt"&gt;metadata&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+  &lt;span class="nt"&gt;name&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s"&gt;"foo"&lt;/span&gt;
+  &lt;span class="nt"&gt;namespace&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;production&lt;/span&gt;
+
+&lt;span class="nt"&gt;spec&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+  &lt;span class="nt"&gt;rules&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p p-Indicator"&gt;-&lt;/span&gt; &lt;span class="nt"&gt;host&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;example.net&lt;/span&gt;
+      &lt;span class="nt"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nt"&gt;paths&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+          &lt;span class="p p-Indicator"&gt;-&lt;/span&gt; &lt;span class="nt"&gt;path&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;/bar&lt;/span&gt;
+            &lt;span class="nt"&gt;backend&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+              &lt;span class="nt"&gt;serviceName&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;service1&lt;/span&gt;
+              &lt;span class="nt"&gt;servicePort&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;80&lt;/span&gt;
+          &lt;span class="p p-Indicator"&gt;-&lt;/span&gt; &lt;span class="nt"&gt;path&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;/foo&lt;/span&gt;
+            &lt;span class="nt"&gt;backend&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+              &lt;span class="nt"&gt;serviceName&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;service1&lt;/span&gt;
+              &lt;span class="nt"&gt;servicePort&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="l l-Scalar l-Scalar-Plain"&gt;80&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h4&gt;Images&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="an image" src="https://aws1.discourse-cdn.com/business6/uploads/kubernetes/original/2X/8/8a8e4ef1a1edf54a782080ef25bb3423210979f6.png"&gt;&lt;/p&gt;
+&lt;p&gt;This should also work&lt;/p&gt;&lt;/div&gt;</description><guid>https://evilnick.github.io/k8screw-nikola/posts/a-new-beginning/</guid><pubDate>Mon, 26 Apr 2021 09:49:10 GMT</pubDate></item><item><title>markdown</title><link>https://evilnick.github.io/k8screw-nikola/posts/markdown-usability/</link><dc:creator>k8screw</dc:creator><description>&lt;div&gt;&lt;p&gt;Just for consistency, I have changed the default format in this blog to Markdown.&lt;/p&gt;
 &lt;p&gt;Yes, many people prefer rst, but really, so many of our other projects require or currently use Markdown, this is a bit of a no brainer.&lt;/p&gt;
 &lt;p&gt;NV&lt;/p&gt;&lt;/div&gt;</description><guid>https://evilnick.github.io/k8screw-nikola/posts/markdown-usability/</guid><pubDate>Thu, 15 Apr 2021 13:30:29 GMT</pubDate></item></channel></rss>
